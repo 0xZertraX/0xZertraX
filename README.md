@@ -19,7 +19,7 @@
 
 ###
 
-<h4 align="center">🇫🇷<br><br>🔒 - CEO of Nova Softwares with https://github.com/@0xZertraX<br><br>______________________</h4>
+<h4 align="center">🇫🇷<br><br>🔒 - CEO of Nova Softwares with https://github.com/@OxZertraX<br><br>______________________</h4>
 
 ###
 
