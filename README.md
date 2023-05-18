@@ -19,7 +19,7 @@
 
 ###
 
-<h4 align="center">:flag_fr:<br><br>:lock: - CEO of Nova Softwares with https://github.com/@0xCxka<br><br>______________________</h4>
+<h4 align="center">:flag_fr:<br><br>:lock: - CEO of Nova Softwares with https://github.com/@0xZertraX<br><br>______________________</h4>
 
 ###
 
