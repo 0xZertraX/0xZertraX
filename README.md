@@ -19,11 +19,11 @@
 
 ###
 
-<h4 align="center">:flag_fr:<br><br>:lock: - CEO of Nova Softwares with https://github.com/@0xZertraX<br><br>______________________</h4>
+<h4 align="center">🇫🇷<br><br>🔒 - CEO of Nova Softwares with https://github.com/@0xCxka<br><br>______________________</h4>
 
 ###
 
-<h3 align="center">:tools: Languages</h3>
+<h3 align="center">🛠 Languages</h3>
 
 ###
 
@@ -34,8 +34,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xCxka&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xCxka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=0xZertraX&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xZertraX&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
